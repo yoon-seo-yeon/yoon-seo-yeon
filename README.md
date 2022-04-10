@@ -27,3 +27,4 @@
 <!--most language-->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoon-seo-yeon&layout=compact)](https://github.com/yoon-seo-yeon/github-readme-stats)-->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yoon-seo-yeon&theme=default&ring=E1CEEE&fire=CB89F6&currStreakLabel=CB89F6)](https://git.io/streak-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yoon-seo-yeon&repo=github-readme-stats)](https://github.com/yoon-seo-yeon/github-readme-stats)
