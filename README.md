@@ -23,4 +23,6 @@
 <br>
   
 ![seoYeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoon-seo-yeon&show_icons=true&theme=buefy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoon-seo-yeon&layout=compact)](https://github.com/yoon-seo-yeon/github-readme-stats)
+  
+//most language
+//[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoon-seo-yeon&layout=compact)](https://github.com/yoon-seo-yeon/github-readme-stats)
