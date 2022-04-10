@@ -18,10 +18,10 @@
 <img src="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white"> 
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=Csharp&logoColor=white"> 
   
-<div align=center>🐥 About Me</div>  
+<div align=center><h1>🐥 About Me</h1></div> 
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"> 
   
-<br>
+<br><br/>
   
 ![seoYeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoon-seo-yeon&show_icons=true&theme=buefy)
   
