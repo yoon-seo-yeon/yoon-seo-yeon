@@ -23,4 +23,4 @@
 <br>
   
 ![seoYeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoon-seo-yeon&show_icons=true&theme=buefy)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![seoYeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoon-seo-yeon&theme=buefy&show_icons=true)
