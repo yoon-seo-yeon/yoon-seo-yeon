@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?color=EDD5F8&height=300&text=Hello%20World!&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?color=EDD5F8&height=300&text=Hello%20I'm%20Seo Yeon&animation=fadeIn)
 
 <div align=center><h1>📚 STACKS</h1></div>
 
