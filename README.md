@@ -23,4 +23,4 @@
 <br>
   
 ![seoYeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoon-seo-yeon&show_icons=true&theme=buefy)
-![seoYeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoon-seo-yeon&theme=buefy&show_icons=true)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
