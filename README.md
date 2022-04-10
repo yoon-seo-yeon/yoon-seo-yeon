@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=EDD5F8&height=300&text=Hello%20I'm%20Seo%20Yeon&fontSize=50&fontColor=000000&animation=scaleIn)
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 <div align=center><h1>📚 STACKS</h1></div>
 
