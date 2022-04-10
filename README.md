@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?color=EDD5F8&height=300&text=Hello%5World!&desc=Hello%20capsule%20render&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?color=EDD5F8&height=300&text=Hello%20World!&desc=Hello%20capsule%20render&animation=fadeIn)
 
 <div align=center><h1>📚 STACKS</h1></div>
 
