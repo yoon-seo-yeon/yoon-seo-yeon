@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?text=Hello%World!)
 ![header](https://capsule-render.vercel.app/api?color=EDD5F8)
-![header](https://capsule-render.vercel.app/api?color=EDD5F8height=200&text=Hello%20World!&desc=Hello%20capsule%20render)
+![header](https://capsule-render.vercel.app/api?color=EDD5F8&height=300&text=Hello%20World!&desc=Hello%20capsule%20render)
 
 <div align=center><h1>📚 STACKS</h1></div>
 
